@@ -279,3 +279,9 @@ bower_components/
 *.db-journal
 .ipynb_checkpoints/
 *.pickle
+
+Solutions/hw5-ensemble/covtype/
+Solutions/hw5-ensemble/higgs/
+*.gz
+*.data
+*.csv
